@@ -1,4 +1,18 @@
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+
     <main>
 
 
@@ -89,93 +103,9 @@
 
         <button type="submit" style="font-size: 25px; border: none; background-color: white; color: lightgray; position: relative; left: 30%; ">Send Ypur Application</button>
 
-<style>* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-
-html {
-    height: 100%;
-}
-
-body {
-    height: 100%;
-}
-
-main {
-    width: 50%;
-    border: 3px solid lightgray;
-    border-radius: 10px;
-    margin-left: 20%;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-}
-
-.personal_details {
-    display: block;
-    border: 1px solid lightgray;
-    margin: 5rem 1rem 1rem 1rem;
-}
-
-input {
-    border: 1px solid gray;
-    border-radius: 3px;
-    padding-left: 0.5rem;
-    margin-left: 0.5%;
-}
-
-p {
-    max-width: 25%;
-    margin-left: 1rem;
-    padding-left: 1rem;
-    background-color: white;
-    position: relative;
-    top: -10px;
-    font-weight: bold;
-}
-
-ul {
-    list-style-type: none;
-}
-
-ul li {
-    margin: 1rem 1rem 1rem 1rem;
-}
-
-.check_apply {
-    display: block;
-    border: 1px solid lightgray;
-    margin: 1rem 1rem 1rem 1rem;
-}
-
-.select {
-    display: flex;
-    align-items: flex-end;
-    justify-content: left;
-    border: 1px solid lightgray;
-    margin: 1rem 1rem 1rem 1rem;
-}
-
-select {
-    display: block;
-    position: relative;
-    top: -10px;
-    margin-left: 0.5rem;
-}
-
-.essay {
-    display: block;
-    border: 1px solid lightgray;
-    margin: 1rem 1rem 1rem 1rem;
-}
-
-textarea {
-    display: flex;
-    margin-left: 1rem;
-    margin-bottom: 2rem;
-    width: 60%;
-    height: 30%;
-} </style>
     </main>
+
+
+</body>
+
+</html>
