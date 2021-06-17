@@ -1,5 +1,3 @@
-=================== HTML =========================
-
 
     <main>
 
@@ -91,10 +89,7 @@
 
         <button type="submit" style="font-size: 25px; border: none; background-color: white; color: lightgray; position: relative; left: 30%; ">Send Ypur Application</button>
 
-    </main>
-
-=========== Style ===============================
-* {
+<style>* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -182,4 +177,5 @@ textarea {
     margin-bottom: 2rem;
     width: 60%;
     height: 30%;
-}
+} </style>
+    </main>
